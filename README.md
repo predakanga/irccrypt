@@ -11,6 +11,6 @@ Usage:
 
     setup(
         ...,
-        install_requires=['irccrypt', ...]
-        dependency_links=['https://github.com/predakanga/irccrypt/tarball/master#egg=irccrypt-0.1.1']_
+        install_requires=['irccrypt', ...],
+        dependency_links=['https://github.com/predakanga/irccrypt/tarball/master#egg=irccrypt-0.1.1'],
     )
